@@ -1,5 +1,5 @@
 ## Olá, 👋 me chamo Guilherme Aires.
 
-- Atualmente estou trabalhando como auxiliar de service Desk em uma empresa de software odontológico;
-- Faço faculdade de Análise e Desenvolvimento de Sistemas na Cruzeiro do Sul Virtual e estou aprendendo sobre linguagens focadas no BackEnd como C++,Java e C#, realizando cursos na área por plataformas digitais no tempo livre;
-- Desde pequeno adoro estudar e testar os meus conhecimentos na área de programação, seja com cursos, projetos básicos, ou até testes mais complexos, pois é a carreira que desejo seguir.
+- Atualmente estou trabalhando como auxiliar de service Desk em uma empresa de software utilizado como serviço Cloud e Desktop;
+- Estou fazendo o último semestre da faculdade de Análise e Desenvolvimento de Sistemas na Cruzeiro do Sul e possuo conhecimentos em linguagens de programação como C++,Java e C#, realizando cursos e projetos na área;
+- Desde o ínicio da faculdade comecei a gostar do ambiente de desenvolvimento, vendo todo o processo de construção até que o usuário possa utiliza-lo, assim pretendo me especializar na área e me aprimorar cada vez mais para conseguir chegar em meu objetivo principal de se tornar um desenvolvedor.
